@@ -1,4 +1,4 @@
-alert("Ola Seja Bem_vindo!")
+alert("Ola Seja Bem_vindo!");
 let p1 = prompt ("Digite seu nome");
 
 let p2 = prompt ("Digite um Poder que gostaria ter");
